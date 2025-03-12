@@ -1,8 +1,8 @@
 Funiture Pedia Website Home Index, Belum Responsive 
 
 Tech:
-Tailwind CSS
-Flowbite Component Css
+Tailwind Framework CSS
+Flowbite Component Framework CSS
 
 git clone : https://github.com/Mikoofficial404/tailwind-Furniturpedia.git
 
